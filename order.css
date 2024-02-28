@@ -1,0 +1,61 @@
+body{
+    width: 99%;
+    height: 89vh;
+    background-image: linear-gradient(rgba(0,0,0,0.65),rgba(0,0,0,0.60)),url(https://media.istockphoto.com/id/1468323818/photo/close-up-photo-of-mans-hand-serving-margherita-pizza-on-a-plate.jpg?s=612x612&w=0&k=20&c=iW481StBJUtsLywe86lcYXtGQCjmRWXaKbZslA-1uaM=);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+header{
+    width: 380px;
+    height: 480px;
+    border: 1px solid white;
+    margin-left: 35%;
+    margin-top: 60px;
+}
+
+.box input{
+    width: 340px;
+    height: 30px;
+    margin-top: 15px;
+    background-color: black;
+    color: white;
+    margin-left: 17px;
+    border: 3px solid #FB8B24;
+    border-radius: 6px;
+    font-size: 18px;
+}
+
+.link select{
+    width: 160px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    margin-left: 20px;
+    margin-top: 30px;
+    border: 3px solid #FB8B24;
+    border-radius: 6px;
+}
+
+.btn button{
+    width: 180px;
+    height: 45px;
+    background-color: #FB8B24;
+    color: white;
+    font-size: 20px;
+    margin-left: 100px;
+    border: 3px solid #FB8B24;
+    border-radius: 6px;
+    margin-top: 50px;
+    font-weight: bold;
+}
+
+.btn button a{
+    text-decoration: none;
+    color: white;
+}
+
+.btn button:hover{
+    background-color: black;
+}

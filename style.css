@@ -1,0 +1,100 @@
+body{
+    width: 99%;
+    height: 96.9vh;
+    background-image: linear-gradient(rgba(0,0,0,0.65),rgba(0,0,0,0.60)),url(https://media.istockphoto.com/id/1468323818/photo/close-up-photo-of-mans-hand-serving-margherita-pizza-on-a-plate.jpg?s=612x612&w=0&k=20&c=iW481StBJUtsLywe86lcYXtGQCjmRWXaKbZslA-1uaM=);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+nav{
+    display: flex;
+    color: white;
+    justify-content: space-between;
+
+}
+
+nav h1{
+    font-size: 35px;
+    color: #FB8B24;
+    margin-left: 20px;
+    border-bottom: 3px solid #FB8B24;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+.head span{
+    color: white;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    font-size: 23px;
+    font-family: arial;
+    font-weight: bold;
+
+}
+
+ul a{
+    margin-inline: 30px;
+    text-decoration: none;
+    color: white;
+}
+
+ul a:hover{
+    border-bottom: 3px solid #FB8B24;
+}
+
+.btn button{
+    width: 100px;
+    height: 30px;
+    font-size: 18px;
+    background-color: black;
+    border: 3px solid #FB8B24;
+    margin-top: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+.btn button a{
+    text-decoration: none;
+    color: white;
+}
+
+.main-div h1{
+    color: white;
+    margin-top: 90px;
+    margin-left: 60px;
+    color: #FB8B24;
+    font-size: 70px;
+    font-family: Arial;
+}
+
+.main-div h1 span{
+    color: white;
+}
+
+.btn1 button{
+    margin-left: 60px;
+    width: 170px;
+    height: 45px;
+    background-color: #FB8B24;
+    border: 3px solid #FB8B24;
+    border-radius: 6px;
+    font-size: 18px;
+    margin-top: 50px;
+
+}
+
+.btn1 button a{
+    text-decoration: none;
+    color: white;
+}
+
+.btn1 button:hover{
+    background-color: black;
+}
+
+

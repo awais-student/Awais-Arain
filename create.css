@@ -1,0 +1,121 @@
+body{
+    width: 99%;
+    height: 91vh;
+    background-image: linear-gradient(rgba(0,0,0,0.65),rgba(0,0,0,0.60)),url(https://media.istockphoto.com/id/1468323818/photo/close-up-photo-of-mans-hand-serving-margherita-pizza-on-a-plate.jpg?s=612x612&w=0&k=20&c=iW481StBJUtsLywe86lcYXtGQCjmRWXaKbZslA-1uaM=);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+header{
+    width: 380px;
+    height: 550px;
+    border: 1px solid white;
+    margin-left: 35%;
+    margin-top: 50px;
+}
+
+.head h1{
+    color: #FB8B24;
+    margin-left: 20px;
+    margin-top: 20px;
+    display: inline;
+}
+
+p{
+    color: white;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.head input{
+    width: 150px;
+    height: 30px;
+    margin-left: 20px;
+    margin-top: 10px;
+    border: 3px solid #FB8B24;
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    border-radius: 6px; 
+}
+
+.E-mail input{
+    width: 340px;
+    height: 30px;
+    margin-left: 18px;
+    margin-top: 10px;
+    border: 3px solid #FB8B24;
+    background-color: black;
+    color: white;
+    border-radius: 6px;
+    font-size: 18px;
+}
+
+.number select{
+    margin-left: 20px;
+    width: 100px;
+    height: 30px;
+    border: 3px solid #FB8B24;
+    background-color: black;
+    color: white;
+    border-radius: 6px;
+    font-size: 18px;
+}
+
+h5{
+    margin-left: 20px;
+    color: white;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    font-family: arial;
+    font-size: 16px;
+}
+
+h6{
+    margin-left: 20px;
+    margin-bottom: 0px;
+    margin-top: 10px;
+    color: white;
+    font-size: 15px;
+    font-family: arial;
+}
+
+.male input{
+    width: 90px;
+    height: 30px;
+    background-color: black;
+    font-size: 18px;
+    margin-left: 20px;
+    margin-top: 10px;
+    border: 3px solid #FB8B24;
+    border-radius: 6px;
+    color: white;
+}
+
+.male p{
+    color: white;
+    margin-bottom: 0px;
+    font-size: 16px;
+}
+
+.btn button{
+    width: 180px;
+    height: 35px;
+    background-color: #FB8B24;
+    margin-left: 100px;
+    margin-top: 15px;
+    border: 3px solid #FB8B24;
+    border-radius: 6px;
+    font-size: 18px;
+}
+
+.btn button a{
+    text-decoration: none;
+    color: white;
+}
+
+.btn button:hover{
+    background-color: black;
+}
+
